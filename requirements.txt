@@ -1,0 +1,15 @@
+apache-airflow[http,celery,sqlite]==2.10.4
+apache-airflow-providers-papermill
+apache-airflow-providers-common-io
+apache-airflow-providers-cncf-kubernetes
+apache-airflow-providers-docker
+papermill
+ipykernel
+pyspark==3.3.2
+delta-spark==2.3.0
+pandas
+requests
+matplotlib
+seaborn
+plotly
+ipywidgets
